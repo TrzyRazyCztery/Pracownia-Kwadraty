@@ -1,4 +1,6 @@
-
+%% pracownia oceniona na 18/20	90 %	 
+%% Poprawność: 11, Efektywność: 3, Styl: 4. Dobre testy, ale trochę ich mało. 
+%% Kod bardzo czytelny, ale moim zdaniem 140 znaków na wiersz to trochę za dużo (zalecałbym 80).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%
 %%                         Metody Programowania 2014 - Pracownia
